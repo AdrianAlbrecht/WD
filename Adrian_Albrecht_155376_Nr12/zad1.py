@@ -1,0 +1,1 @@
+#Nie działa bo linki idą w jakimś <object> więc nie wysyłam rozwiązania, bo go nie mam
